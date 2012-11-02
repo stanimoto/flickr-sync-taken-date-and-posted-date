@@ -1,0 +1,3 @@
+apikey: 123456
+apikey_secret: abcdef
+per_page: 500
